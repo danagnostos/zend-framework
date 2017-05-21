@@ -1,6 +1,6 @@
 {
     "name": "zendframework/zendframework",
-    "description": "Zend Framework 2",
+    "description": "Zend Framework 2 with PHPUnit 6",
     "type": "library",
     "keywords": [
         "framework",
@@ -23,7 +23,7 @@
         "zendframework/zend-di": "^2.5",
         "zendframework/zend-dom": "^2.5",
         "zendframework/zend-escaper": "^2.5",
-        "zendframework/zend-eventmanager": "^2.5",
+        "zendframework/zend-eventmanager": "2.5",
         "zendframework/zend-feed": "^2.5",
         "zendframework/zend-file": "^2.5",
         "zendframework/zend-filter": "^2.5",
@@ -53,7 +53,7 @@
         "zendframework/zend-soap": "^2.5",
         "zendframework/zend-stdlib": "^2.5",
         "zendframework/zend-tag": "^2.5",
-        "zendframework/zend-test": "release-2.6.2",
+        "zendframework/zend-test": "2.6.3",
         "zendframework/zend-text": "^2.5",
         "zendframework/zend-uri": "^2.5",
         "zendframework/zend-validator": "^2.5",
