@@ -53,7 +53,7 @@
         "zendframework/zend-soap": "^2.5",
         "zendframework/zend-stdlib": "^2.5",
         "zendframework/zend-tag": "^2.5",
-        "zendframework/zend-test": "2.6.3",
+        "zendframework/zend-test": "2.6.3.1",
         "zendframework/zend-text": "^2.5",
         "zendframework/zend-uri": "^2.5",
         "zendframework/zend-validator": "^2.5",
